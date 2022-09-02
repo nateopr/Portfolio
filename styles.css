@@ -85,6 +85,12 @@
     padding-right: 12vw;
   }
   
+  @media screen and (max-width: 600px) {
+    .title-h1 {
+      font-size: 12vw !important;
+    }
+  }
+  
   .title-p {
     padding-left: 12vw;
   }
